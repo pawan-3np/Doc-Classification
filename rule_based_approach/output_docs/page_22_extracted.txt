@@ -1,0 +1,68 @@
+Box 12. The following list explains the codes shown in box 12. P--Excludable moving expense reimbursements paid directly to a
+You may need this information to complete your tax return. member of the U.S. Armed Forces (not included in box 1, 3, or 5S)
+Elective deferrals (codes D, E, F, and S) and designated Roth
+contributions (codes AA, BB, and EE) under all plans are Q—Nontaxable combat pay. See the Form 1040 Instructions for details
+generally limited to a total of $22,500 ($15,500 if you only have on reporting this amount.
+SIMPLE plans; $25,500 for section 403(b) plans if you qualify for
+the 15-year rule expiained in Pub. 571). Deferrals under code G R—-Employer contributions to your Archer MSA. Report on Form 8853.
+are limited to $22,500. Deferrals under code H are limited to
+$7,000. S—Employee salary reduction contributions under a section 408(p)
+SIMPLE plan (not included in box 1)
+However, if you were at least age 50 in 2023, your employer ;
+may have allowed an additional deferral of up to $7,500 ($3,500 T—Adoption benefits (not included in box 1). Complete Form 8839 to
+for section 401(k)(11) and 408(p) SIMPLE plans). This additional figure any taxable and nontaxable amounts.
+deferral amount is not subject to the overall limit on elective
+deferrals. For code G, the limit on elective deferrals may be V—Income from exercise of nonstatutory stock option(s) (included in
+higher for the last 3 years before you reach retirement age. boxes 1, 3 (up to the social security wage base), and 5). See Pub. 525
+Contact your plan administrator for more information. Amounts for reporting requirements.
+in excess of the overall elective deferral limit must be included in
+income. See the Form 1040 instructions. W—Employer contributions (including amounts the employee elected to
+contribute using a section 125 (cafeteria) plan) to your health savings
+Note: If a year follows code D through H, S, Y, AA, BB, or EE, | account. Report on Form 8889.
+you made a make-up pension contribution for a prior year(s)
+when you were in military service. To figure whether you made Y—Deferrals under a section 409A nonqualified deferred compensation
+excess deferrais, consider these amounts for the year shown, plan
+not the current year. If no year is shown, the contributions are
+for the current year. Z—Income under a nonqualified deferred compensation plan that fails to
+satisfy section 409A. This amount Is also included in box 1. It is subject
+A—Uncollected social security or RRTA tax on tips. Include this to an additional 20% tax plus interest. See the Form 1040 instructions.
+tax on Ferm 1040 or 1040-SR. See the Form 1040 instructions.
+AA—Designated Roth contributions under a section 401(k) plan
+B--Uncollected Medicare tax on tips. Include this tax on Form
+1040 or 1040-SR. See the Form 1040 instructions. BB—Designated Roth contributions under a section 403(b) plan
+C—Taxable cost of group-term life insurance over $50,000 DD—Cost of employer-sponsored health coverage. The amount
+(included in boxes 1, 3 (up to the social security wage base), reported with code DD is not taxable.
+and 5)
+EE—Designated Roth contributions under a governmental section 457(b)
+D—Elective deferrals to a section 401(k) cash or deferred plan. This amount does not apply to contributions under a taxexempt
+arrangement. Also includes deferrals under a SIMPLE retirement organization section 457(b) plan.
+account that is part of a section 401(k) arrangement.
+FF—Permitted benefits under a qualified small employer heatth
+E—Elective deferrals under a section 403(b) salary reduction reimbursement arrangement
+agreement
+GG—Income from qualified equity grants under section 83(i)
+F—Elective deferrals under a section 408(k)(6) salary reduction
+SEP HH—Aggregate deferrais under section 83(i) elections as of the close of
+the calendar year
+G—Elective deferrals and employer contributions (including
+nonelective deferrals) to a section 457(b) deferred Box 13. If the "Retirement pian" box is checked, special limits may
+compensation plan apply to the amount of traditional IRA contributions you may deduct. See
+Pub. 590-A.
+H—Elective deferrals to a section 501(c)(18)(D) tax-exernpt
+organization plan. See the Form 1040 instructions for how to Box 14. Employers may use this box to report information such as state
+deduct. disability insurance taxes withheld, union dues, uniform payments,
+health insurance premiums deducted, nontaxable income, educational
+3J—Nontaxabie sick pay (information onty, not included in box 1, assistance payments, or a member of the clergy’s parsonage allowance
+3, or 5) and utilities. Railroad employers use this box to report railroad
+retirement (RRTA) compensation, Tier 1 tax, Tier 2 tax, Medicare tax,
+K—20% excise tax on excess golden parachute payments. See and Additional Medicare Tax. Include tips reported by the employee to
+the Form 1040 instructions. the employer in railroad retirement (RRTA) compensation.
+L—Substantiated employee business expense reimbursements Wote: Keep Copy C of Form W-2 for at least 3 years after the due date
+(nontaxable) for filing your income tax return. However, to help protect your social
+security benefits, keep Copy C until you begin receiving social security
+M—Uncollected social security or RRTA tax on taxable cost of —_— benefits, just in case there is a question about your work record and/or
+groupterm life insurance over $50,000 (former employees only). earings in a particular year.
+See the Form 1040 instructions.
+N—Uncollected Medicare tax on taxable cost of group-term life
+insurance over $50,000 (former employees only). See the Form
+1040 instructions.

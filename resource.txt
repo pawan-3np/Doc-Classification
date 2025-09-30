@@ -1,0 +1,32 @@
+https://rossum.ai/form/demo/ ---> rossum ai
+
+🔗 Websites / APIs to Try
+Tool	Description
+Nanonets
+	Upload PDF, auto-classify documents
+Rossum.ai
+	Intelligent document classification
+Google Document AI
+	High-accuracy classification
+PDF.co
+	Split and auto-label pages
+Docsumo
+	Document understanding and grouping
+
+
+itHub Repositories You Can Explore
+
+🔗 https://github.com/clovaai/donut
+ – OCR-free document classification
+
+🔗 https://github.com/microsoft/unilm/tree/master/layoutlm
+ – LayoutLM models
+
+🔗 https://github.com/JaidedAI/EasyOCR
+ – OCR
+
+🔗 https://github.com/Belval/pdf2image
+ – Convert PDFs to images
+
+🔗 https://github.com/jsvine/pdfplumber
+ – Text extraction from PDFs

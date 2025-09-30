@@ -1,0 +1,175 @@
+doc_types:
+  W2:
+    match_keywords:
+    - "w-2"
+    - "form w-2"
+    - "wage and tax statement"
+    - "wages, tips, other compensation"
+    - "w-4"
+    - "employee's social security number"
+    - "employer identification number"
+    - "medicare wages and tips"
+    - "federal income tax withheld"
+    - "notice to employee"
+
+  SocialSecurityAwardLetter:
+    match_keywords:
+    - "social security administration"
+    - "supplemental security income"
+    - "ssi"
+    - "claim number"
+    - "bnc number"
+    - "we are writing to tell you"
+    - "important information"
+    - "you may be eligible for additional benefits"
+
+  BorrowerAuthorization:
+    match_keywords:
+    - certification_and_authorization_to_release_information
+    - borrower_signature
+    - co_borrower_signature
+    - co_applicant_signature
+    - borrower_signature_date
+    - co_borrower_signature_date
+    - co_applicant_signature_date
+
+
+  Paystub:
+    match_keywords:
+
+    - "pay statement"
+    - "paystub"
+    - "earnings description"
+    - "gross wages"
+    - "net pay"
+    - "deductions"
+    - "payroll period"
+    - "taxable wages"
+    - "year to date"
+    - "employer name"
+    - "employee id"
+    - "withholding"
+
+  DriverLicense:
+    match_keywords:
+
+    - class
+    - dl_number
+    - date_of_birth
+    - first_name_of_borrower
+    - middle_name_of_borrower
+    - last_name_of_borrower
+    - expiry_date
+    - issue_date
+    - sex
+    - current_address
+    - signature_present
+    - photo_present 
+
+
+  FloodCertificate:
+    match_keywords:
+    #- lender
+    - subject_property_address
+   # - borrower_name
+    #- loan_identifier
+    - county_name
+    - nfip_map_number
+    - flood_zone_code
+    #- subject_in_flood_zone
+    - flood_certificate_date
+    - flood_certificate_order_id
+    #- date_of_determination
+    - flood_certificate_provider_name
+    - flood_certificate_provider_address
+    - flood_certificate_provider_phone_number
+
+  HazardInsuranceBinder:
+    match_keywords:
+    - policy_number
+    - policy_type
+    - coverage_start_date
+    - coverage_end_date
+    - hazard_insurance_company_name
+    - hazard_insurance_company_address
+    - agent_information
+    - named_insured
+    - premium_amount
+    - property_address
+    - coverage_a
+    - deductible_type
+    - deductible_amount
+    - lender_name
+    - lender_address
+    - loan_number
+    - replacement_coverage
+    - replacement_cost_percent
+    - cash_value
+
+  PurchaseContractAddendum:
+    match_keywords:
+    - contract_date
+    - buyer_name
+    - seller_name
+    - property_address
+    - purchase_price
+    - initial_deposit
+    - parcel_number
+    - legal_description
+    - property_identifier
+    - other_fee
+    - loan_amount
+    - loan_interest_rate
+    - loan_type
+    - seller_credit
+    - buydown_fees
+    - inspection_fees
+    - closing_of_escrow_date
+    - expiration_date
+    - inspection
+    - list_of_attached_addendum_and_disclosures
+    - counter_offer
+    - possession
+    - list_of_repairs
+    - list_of_contingencies
+    - fixtures_and_personal_property
+    - buyer_signature
+    - buyer_signature_date
+    - seller_signature
+    - seller_signature_date
+    - buyer_initial
+    - seller_initial
+    - seller_agent_name
+    - seller_agent_address
+    - seller_agent_license_number
+    - seller_agent_phone_number
+    - seller_agent_email
+    - buyer_agent_name
+    - buyer_agent_address
+    - buyer_agent_license_number
+    - buyer_agent_phone_number
+    - buyer_agent_email
+    - seller_agent_company_name
+    - seller_agent_company_address
+    - seller_agent_company_license
+    - buyer_agent_company_address
+    - buyer_agent_company_name
+    - buyer_agent_company_license
+    - seller_agent_signature
+    - buyer_agent_signature
+    - for_sale_by_owner
+    - title_company_name
+    - fha_amendatory_clause_paragraph
+    - entire_aggrement
+    - appraised_value_amount
+
+  SSA89:
+    match_keywords:
+    - "form ssa-89"
+    - "authorization for the social security administration"
+    - "verify social security number"
+    - "ssa-89"
+    - "social security number verification"
+    - "form ssa"
+    - "third party request"
+    - "ssn verification"

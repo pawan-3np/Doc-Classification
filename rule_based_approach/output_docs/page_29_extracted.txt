@@ -1,0 +1,76 @@
+DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0040
+FEDERAL EMERGENCY MANAGEMENT AGENCY Expires: 09-30-2023
+STANDARD FLOOD HAZARD DETERMINATION FORM (SFHDF
+SECTI@N I - LOAN INFORMATION
+1. LENDER/SERVICER NAME AND ADDRESS 2. COLLATERAL DESCRIPTION (Building‘Mobile Home/Property)
+(See instructions for more information)
+
+ABC FINANCIAL CORP John Homeowner
+
+7500 COLLEGE BLVD SUITE 1150 123 Test Drive
+
+OVERLAND PARK, KS 66210 BESSEMER, AL 35023
+
+LWD - 97930708
+
+3. LENDER/SERVICER ID # | 4. LOAN IDENTIFIER 5. AMOUNT OF FLOOD INSURANCE REQUIRED
+
+1234567890
+SECTION I
+A. NATIONAL FLOOD INSURANCE PROGRAM (NFIP) COMMUNITY JURISDICTION
+1. NFIP Community Name 2. County(ies) 3. State /4. NFIP Conununity Number
+HUEYTOWN, CITY OF JEFFERSON AL 010337
+
+B. NATIONAL FLOOD INSURANCE PROGRAM (NFIP) DATA AFFECTING BUILDING /MOBILE HOME
+
+1. NFIP Map Number or Commnnity-Panel Number 2. NFIP Map Panel Effective/Revised Date 3. Is there a Letter of Map Change (LOMC)?
+(Community name, ifnot the same as "A")
+
+@ No
+01073C0528 G 09/29/06 © YES (if yes, and LOMC date/no. is available,
+4. Flood Zone 5. No NFIP Map enter date and case no. below).
+X Date Case No.
+
+C. FEDERAL FLOOD INSURANCE AVAILABILITY (Check all that apply.)
+
+1. V] Federal Flood Insurance is available (community participates in the NFIP). VY) Regular Program LJ Emergency Program of NFIP
+
+2. _} Federal Flood Insurance is not available (community does not participate in the NFIP).
+
+3. } Building‘Mobile Home is in a Coastal Barrier Resources Area (CBRA) or Otherwise Protected Area (OPA). Federal Flood Insurance may not be available.
+
+CBRA/OPA Designation Date:
+
+D. DETERMINATION:
+
+iS BUILDING/MOBILE HOME IN SPECIAL FLOOD HAZARD AREA (ZONES CONTAINING THE LETTERS "A" OR "V")? L) YES WA NO
+If yes, flood insurance is required by the Flood Disaster Protection Act of 1973.
+
+If no, flood insurance is notrequired by the Flood Disaster Protection Act of 1973. Please note, the risk of flooding in this area is only reduced, not removed.
+
+This determination is based on examining the NFIP map, any Federal Emergency Management Agency revisions to it,
+
+and any other information needed to locate the building/mobile home on the NFIP map.
+
+E. COMMENTS (Optional) Service Type: Life of Loan /Census Tract Requester: lofcepc
+
+Date of Original Determination: 08/30/24 Determination #: 24083017025435 AccountID: LWD - 97930708
+
+ProgramEnwy Date: 01/02/81
+
+Census Data) STATE CODE#: 01 COUNTY CODE#: 073 MSA/MD: 13820 CENSUS TRACT #: 0100.02 BLOCK GROUP #: 3003
+
+TINS FLOOD DETERMINATION IS PROVIDED TO THE LENDER PURSUANT TO THE FLOOD DISASTER
+PROTECTION ACT AND FOR NO OTHER PURPOSE
+
+F. PREPARER'S INFORMATION
+
+NAME, ADDRESS, TELEPHONE NUMBER (if other than Lender) DATE OF DETERMINATION
+DataVerify Flood Services
+
+PO Box 530223
+
+Adlanta, GA 30353-0223 08/30/24
+
+PHONE: 866-895-3282 / FAX: 800-841-0663 / EMAIL: floodscs@:DataVerifvflood.com
+FEMA FORM FF-206-F Y-21-116 (forinerly 086-0-32) (04/21) SFHDF - Form Page 1 of 1

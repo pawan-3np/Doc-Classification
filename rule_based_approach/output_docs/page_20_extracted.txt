@@ -1,0 +1,64 @@
+Form W-2 Wage & Tax Statement 2023 
+Copy C-For EMPLOYEE'S RECORDS. 
+This Information Is being furnished to the Internal Revenue Service. If you are required to file a tax return, a negligence penalty or other 
+sanction may be Imposed on you If this Income Is taxable and you fall to report It. 
+Department of the Treasury - Internal Revenue Service 
+a Employee's social security number 
+123-4567891
+c Em player's name, address, and ZJP code 
+XYZ Medical Inc 
+841 Prudential Dr 
+Ste 204 
+Jacksonville, FL 32207 
+b Employer Identification number (EIN) 
+USA 
+22·111111 
+e Employee's name, address, and ZIP code 
+John Homeowner
+123 test  drive
+15 State1Iße(s state IO No. 
+AL 
+R009080141 
+116 Stale wages, bps, etc. 
+32783.19 
+1 Wages, tips, other compensation 
+32783.19 
+3 Social security wages 
+35296.96 
+5 Medicare wages and tips 
+35296.96 
+7 Social security tips 
+0.00 
+9 
+11 Nonquallfied plans 
+0.00 
+12 See Instructions for box 12 
+D 
+2513. 77 
+DD 
+7412. 60 
+117 Stale income truc 
+1189.38 
+118 Local wages, bps. etc. 
+0MB No. 1545-0008 
+2 Federal Income tax withheld 
+0.00 
+4 Social security tax withheld 
+2188.41 
+6 Medicare tax withheld 
+511. 81 
+8 Allocated tips 
+0.00 
+10 Dependent care benefits 
+0.00 
+13 Statutory 
+Retirement Third-party 
+employee 
+plan 
+sick pay 
+D 
+l!I 
+D 
+14 Other 
+119 Local Income truc 
+120 Locally name
