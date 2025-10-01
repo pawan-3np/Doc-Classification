@@ -1,47 +1,72 @@
-dotloop signature verification: i152 0-8 ia eave
-gases; Property access easements, covenants, restrictions or development structures; and any matters affecting the
-character of the neighborhood; the investment or resale value of the Property; the past, present, or future financial
-stability of the builder or developer or the future insurability of the Property; or the compliance of the builder or
-developer under any warranty or any related mortgage terms and conditions; or any other matters affecting the
-willingness of the Seller and Buyer to sell or purchase the Property on the terms and at the Purchase Price herein set
-forth. Seller and Buyer acknowledge and agree that if such matters are of concern to them in the decision to sell or
-purchase the Property, they have sought and obtained independent advice relative thereto. Seller and Buyer agree that
-neither broker nor agent shall be held responsible for any obligations or agreements that Seller or Buyer have to one
-another hereunder, and Seller and Buyer agree to discharge and release the brokers and agents from any claims,
-demands, damages, actions, causes of actions or suits at law arising in any way from this Contract or related to the
-Property or the condition of the Property.
-sete ii om [| Buyer iit GE ||
-23. RISK OF LOSS: Seller agrees to keep in force sufficient hazard insurance on the Property to protect all interests
-until this sale is closed. If the Property is destroyed or materially damaged between the Finalized Date and the closing,
-and Seller is unable to restore it to its previous condition prior to closing, the Buyer shall have the option of canceling
-this Contract and recovering the Earnest Money pursuant to Paragraph 4 above, provided that notice of cancellation
-is received prior to closing, or accepting the Property in its damaged condition. If Buyer elects to accept the Property
-in its damaged condition, then Buyer is entitled to the proceeds of insurance obtainable by Seller, less any deductible
-payable by Seller. _
-sete si |) Buyer it a | |
-24, SELECTION OF SETTLEMENT/CLOSING AGENT: Buyer and Seller hereby agree that the closing of this
-transaction shall be conducted by a closing attorney or title insurance company and Buyer and Seller M1 do
-CO) do not agree to share equally the settlement or closing charge imposed by the settlement agent. Buyer and Seller
-acknowledge and agree that such sharing may involve a potential conflict of interest and they may be required to
-execute an affidavit at closing acknowledging their recognition and acceptance of same. The parties further
-acknowledge that they have a right to legal representation of their own choosing, at their own expense, at all times in
-connection with this contract and the closing of this transaction.
-a Buyer ic i | |
-25. PERSONAL PROPERTY: Any personal items remaining with the property shall be at no additional cost to
-Buyer; shall not add to the value of the property; shall be in “AS IS” condition with no warranties, unless otherwise
-agreed herein; shall be unencumbered at the time of closing; and shall be only that which is currently on the premises
-and on an itemized list or addendum attached hereto (said list to be specific as to description and location of such
-items). The provisions of this Paragraph shall survive the closing and delivery of the deed.
-Seller Initials ' [| Buyer initials {|
-26. OTHER OFFERS WHILE BUYER’S OFFER IS PENDING: Buyer hereby acknowledges that offers other
-than Buyer's offer may have been made or may be made before Seller acts on or while Seller is considering Buyer's
-offer or counteroffer. While the Buyer's offer or counteroffer is pending, and before this Contract becomes effective,
-Seller hereby expressly reserves the right to reject Buyer's offer or counteroffer or to withdraw any offer previously
-made by Seller to Buyer relating to the Property, and to accept any other offer or counteroffer.
-__ dollop verihed
-The Birmingham Association of REALTORS®, Inc. is not engaged in rendering legal, accounting or other professional service by approving
-this form. This form is published as a service to member real estate professionals and an explanation of its various provisions should be
-obtained from the appropriate professional. Because of varying state and local laws, competent legal or other advice should be secured before
-using any form. If a user of this form makes any substantive changes to any portions above, the form will no longer be an approved form.
-Copyright © Birmingham Association of REALTORS®, Inc. — General Residential Sales Contract Page 9 of 11
-Package ID: 6C8B06255DDCCFF5A337C4774E32FED6
+1, the following information reflects your final pay statement plus employer adjustments that comprise your w-2
+statement,
+
+earnings description wages, tips, other comp. social security wages medicare wages
+gross wages 28059.56 28059.56 28059.56
+less exempt wages - 200.00 ~ 200.00 - 200.00
+less deferred comp - 1298.57
+less housing/transportation - 0.00 - 0.00 - 0.00
+less dependent care - 99.94 - 99.94 - 99.94
+less sec 125 - 2503.82 - 2503.82 - 2503.82
+less excess wages - 0.00
+taxable wages 23957.23 25255.80 25255.80
+(reported on form w2) box 1 of w-2 box 3 of w-2 box 5 of w-2
+2. employee w-4 profile to change your employee w-4 profile information, file a new w-4 with the payroll
+department
+fit: h 0 sit res: alsif h 2 sit work: alsit h 2
+notice to employee
+do you have to file? refer to the form 1040 instructions to corrections. if your name, ssn, or address is incorrect, correct
+determine if you are required to file a tax return. even if you copies b, c, and 2 and ask your employer to correct your employment
+don’t have to file a tax return, you may be eligible for a refund if record. be sure to ask the employer to file form w-2c, corrected wage
+box 2 shows an amount or if you are eligible for any credit. and tax statement, with the ssa to correct any name, ssn, or money
+
+amount error reported to the ssa on form w-2. be sure to get your
+earned income credit (eic). you may be able to take the eic — copies of form w-2c from your employer for all corrections made so
+for 2022 if your adjusted gross income (agi) is less than a you may file them with your tax return. if your name and ssn are
+certain amount. the amount of the credit is based on income correct but aren't the same as shown on your social security card, you
+and family size. workers without children could qualify for a should ask for a new card that displays your correct name at any ssa
+smaller credit. you and any qualifying children must have valid office or by calling 800-772-1213. you may also visit the ssa website
+social security numbers (ssns). you can't take the eic if your at www.ssa.gov.
+investment income is more than the specified amount for 2022
+or if income is earned for services provided while you were an cost of employer-sponsored health coverage (if such cost is
+inmate at a penal institution. for 2022 income limits and more provided by the employer). the reporting in box 12, using code dd,
+information, visit www.irs.gov/eitc. see also pub. 596, earned of the cost of employer-sponsored health coverage is for your
+income credit. any eic that is more than your tax liability information only. the amount reported with code dd is not
+is refunded to you, but only if you file a tax return. taxable.
+employee’s social security number (ssn). for your credit for excess taxes. if you had more than one employer in 2022
+protection, this form may show only the fast four digits of your and more than $9,114 in social security and/or tier 1 railroad
+ssn. however, your employer has reported your complete ssn retirement (rrta) taxes were withheld, you may be able to claim a
+to the irs and the social security administration (ssa). credit for the excess against your federal income tax. see the form
+1040 instructions. if you had more than one railroad employer and
+clergy and religious workers. if you aren't subject to social more than $5,350.80 in tier 2 rrta tax was withheld, you may be able
+security and medicare taxes, see pub. 517, social security and to claim a refund on form 843. see the instructions for form 843.
+other information for members of the clergy and religious
+workers.
+instructions for employee
+box 1. enter this amount on the wages line of your tax return. box 10. this amount includes the total dependent care benefits that
+your employer paid to you or incurred on your behalf (including amounts
+box 2. enter this amount on the federal income tax withheld rom a section 125 (cafeteria) plan). any amount over your employer's
+line of your tax return. plan limit is also included in box 1. see form 2441.
+box 5. you may be required to report this amount on form box 11. this amount is (a) reported in box 1 if it is a distribution made
+8959, additional medicare tax. see the form 1040 instructions to you from a nonqualified deferred compensation or nongovernmental
+to determine if you are required to complete form 8959. section 457(b) plan, or (b) included in box 3 and/or box § if it is a prior
+year deferral under a nonqualified or section 457(b) plan that became
+box 6. this amount includes the 1.45% medicare tax withheld taxable for social security and medicare taxes this year because there is
+on all medicare wages and tips shown in box 5, as well as the no longer a substantial risk of forfeiture of your right to the deferred
+0.9% additional medicare tax on any of those medicare wages amount. this box shouidn't be used if you had a deferral and a
+and tips above $200,000. distribution in the same calendar year. if you made a deferral and
+received a distribution in the same calendar year, and you are or will be
+box 8. this amount is not included in box 1, 3, 5, or 7. for age 62 by the end of the calendar year, your employer should file form
+information on how to report tips on your tax return, see the ssa-131, employer report of special wage payments, with the social
+form 1040 instructions. security administration and give you a copy.
+you must file form 4137, social security and medicare tax on
+unreported tip income, with your income tax return to report at
+least the allocated tip amount unless you can prove with
+adequate records that you received a smaller amount. if you
+have records that show the actual amount of tips you received,
+report that amount even if it is more or less than the allocated
+tips. use form 4137 to figure the social security and medicare
+tax owed on tips you didn’t report to your employer. enter this
+amount on the wages line of your tax return. by filing form
+4137, your social security tips will be credited to your social
+security record (used to figure your benefits).

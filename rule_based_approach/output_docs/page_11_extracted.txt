@@ -1,43 +1,65 @@
-dotloop signature verification: i152 0-8 ia eave
-18. FIRE/SMOKE/GAS DETECTORS: Buyer shall satisfy himself/herself that all applicable federal, state and
-local statutes, ordinances and/or regulations concerning fire/smoke/gas detectors or fire protection equipment have
-been met. Upon closing or after taking possession of the Property, whichever occurs first, Buyer shall be solely
-responsible for compliance with such laws.
-19. HOME WARRANTY: Buyer 0) does 0 does not require a Home Warranty Policy issued by a company
-qualified to provide such policies in Alabama, effective for one year from date of closing, to be paid by J Seller
-M Buyer at a cost not to exceed $300 . Home Warranty Policy shall be selected by Buyer. Buyer
-acknowledges that the Real Estate Brokers and Real Estate Agents have not made any representations or statements
-regarding the terms and conditions of any Home Warranty.
-20. SELLER WARRANTS that Seller has not received notification from any lawful authority regarding any
-assessments; pending assessments; pending condemnation proceedings; or pending public improvements, repairs,
-replacements, or alterations to the property that have not been satisfactorily made. Seller warrants that there is no
-unpaid indebtedness on or affecting Property for labor or materials furnished to the Property except as described in
-this contract. These warranties shall survive the closing and delivery of the deed.
-21. FINAL WALK-THROUGH INSPECTION: Buyer has the obligation to conduct a final walk-through to
-inspect the Property prior to closing to determine if the items to be repaired by Seller under Paragraphs 2(B) and 12
-have been satisfied. If Buyer determines any of the following: (a) a condition under Paragraphs 2(B) and 12 has not
-been satisfied; (b) systems as described in the “NOTE” portion of Paragraph 12 are not functioning; or (c) new defects
-have arisen since Buyer's acceptance of property under Paragraph 12, then Buyer shall immediately notify Seller. If
-Seller refuses to pay for any repairs or correct any defects requested by Buyer, Buyer may proceed with the closing
-or cancel the contract and recover the earnest money, or elect to pursue any remedies that the Buyer may have at law
-or equity for Seller's alleged breach of Seller's obligations under the Contract.
-If Buyer fails to conduct this walk-through inspection, Seller's obligations will be deemed fulfilled. Buyer understands
-that if a real estate agent accompanies Buyer on an inspection or walk-through of the property it will be as a courtesy
-and not as a person qualified to detect any defects. After closing all conditions of the property are the
-responsibility of the Buyer unless otherwise stated within this Contract.
-22. BUYER AND SELLER ACKNOWLEDGMENT: Seller and Buyer hereby acknowledge and agree that they
-have not relied upon any advice or representation of the Listing Broker or Company or the Selling Broker or Company
-or any of their real estate agents (“brokers and agents”) regarding the Property, including but not limited to the
-condition of the heating, cooling, plumbing and electrical systems; any built-in appliances; the roof and basement,
-including leaks therein; the presence of asbestos or toxic mold; the presence of or damage from wood destroying
-insects and/or fungus; the presence of vermin or other pest infestations; the presence of arsenic in treated wood; the
-size and area of the Property; the quality of construction materials and workmanship, including floors and structural
-condition; availability of utilities, sewer or septic tank and condition thereof; subsurface and subsoil conditions,
-sinkholes and mining or other soil conditions including radon or other potentially hazardous or toxic materials and/or
-The Birmingham Association of REALTORS®, Inc. is not engaged in rendering legal, accounting or other professional service by approving
-this form. This form is published as a service to member real estate professionals and an explanation of its various provisions should be
-obtained from the appropriate professional. Because of varying state and local laws, competent legal or other advice should be secured before
-using any form. If a user of this form makes any substantive changes to any portions above, the form will no longer be an approved form.
-Copyright © Birmingham Association of REALTORS®, Inc. — General Residential Sales Contract Page 8 of 11
-
-Package ID: 6C8B06255DDCCFF5A337C4774E32FED6
+form w-2 wage & tax statement 2022 
+copy c-for employee's records. 
+this information is being furnished to the internal revenue service. if you are required to file a tax return, a negligence penalty or other 
+sanction may be imposed on you if this income is taxable and you fall to report it. 
+department of the treasury - internal revenue service 
+a employee's social security number 
+123-45-67891
+c em player's name, address, and zjp code 
+xyz medical inc 841 
+prudential dr 
+ste 204 
+jacksonville, fl 32207 
+b employer identification number (ein) 
+usa 
+22·111111 
+e employee's name, address, and zip code 
+john homeowner
+123 , test drive , 
+bessemer , al 35023
+15 state1iàe(s state io no. 
+al 
+r009080141 
+116 stale wages, bps, etc. 
+23957.23 
+1 wages, tips, other compensation 
+23957.23 
+3 social security wages 
+25255.80 
+5 medicare wages and tips 
+25255.80 
+7 social security tips 
+0.00 
+9 
+11 nonquallfied plans 
+0.00 
+12 see instructions for box 12 
+d 
+1298. 57 
+dd 
+5066. 73 
+117 stale income truc 
+819.40 
+118 local wages, bps. etc. 
+0mb no. 1545-0008 
+2 federal income tax withheld 
+0.00 
+4 social security tax withheld 
+1565.86 
+6 medicare tax withheld 
+366.21 
+8 allocated tips 
+0.00 
+10 dependent care benefits 
+99.94 
+13 statutory 
+retirement third-party 
+employee 
+plan 
+sick pay 
+d 
+l!i 
+d 
+14 other 
+119 local income truc 
+120 locally name

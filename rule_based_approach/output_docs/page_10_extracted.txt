@@ -1,41 +1,65 @@
-dotloop signature verification: ty) 2.0 Ob ee
-(C) SURVEY: The real estate brokers and agents strongly recommend that a new survey be obtained on all
-purchases of property. Buyer requires a survey by a registered Alabama land surveyor of Buyer's choosing and,
-unless otherwise agreed herein, at Buyer's expense DYES MNO. If Buyer elects NOT to have a new survey, then
-Buyer releases Seller, Real Estate Broker(s) and Agent(s) from any and all liability for conditions which would have
-been revealed from a survey performed by a registered Alabama land surveyor. To the best of the Seller’s knowledge
-the Property 0 is M is not located in a flood plain, but this information is not guaranteed and should be confirmed
-by a flood plain certification and/or a current surveyor's statement in the survey which shall be the responsibility of
-Buyer. Further, unless otherwise agreed herein, the Property is purchased subject to utility easements, residential
-subdivision covenants and restrictions, if any, and building lines of record, if any.
-Seller Initials | Buyer initio []
-Buyer acknowledges and agrees that all Inspections are the responsibility of Buyer including payment for the
-inspection services. Unless otherwise agreed, Buyer shall be responsible for payment for Inspection services
-regardless of whether or not the transaction contemplated herein proceeds to Closing.
-14. HAZARDOUS DRYWALL: This tainted wallboard often gives off a foul odor, corrodes copper, electrical
-wiring and other metal surfaces and may cause serious health problems with prolonged exposure. Real Estate Broker
-and Agent recommend that Buyer requests the home inspector to inspect for this drywall problem, or hire an inspector
-specifically trained in discovering defective drywall, if Property was either built or renovated since 2001.
-15. LEAD-BASED PAINT AND/OR LEAD-BASED PAINT HAZARDS: Lead-based paint disclosure is required
-VIYES ONO. Ifa residential dwelling built prior to 1978 is located on the Property, Federal law requires that
-certain disclosures be made by the Seller to the Buyer and that this Agreement be made subject to a lead-based paint
-testing contingency. A copy of the disclosure information form and the Agreement lead based paint testing
-contingency language are attached hereto.
-Seller ii [| Buyer rit {|
-16. ZONING, SUBDIVISION REGULATIONS, SUBDIVISION RESTRICTIONS, RESTRICTIVE
-COVENANTS AND HOMEOWNER’S ASSOCIATION BYLAWS. Buyer and Seller hereby agree and
-acknowledge that the Buyer shall be solely responsible for obtaining all records and information regarding the
-property relative to zoning, subdivision regulations, subdivision restrictions, restrictive covenants, historic district
-regulations, and Homeowner's Association requirements. Further, Buyer shall be solely responsible for determining
-that the Property is suitable to the Buyer's intended use, including any development of, alterations to, improvements
-or construction on the Property.
-17. SCHOOL ZONES. Buyer and Seller hereby agree and acknowledge that the Buyer shall be solely responsible
-for determining school zoning of Property.
-Seller Initial EE | Buyer nig | |
-The Birmingham Association of REALTORS®, Inc. is not engaged in rendering legal, accounting or other professional service by approving
-this form. This form is published as a service to member real estate professionals and an explanation of its various provisions should be
-obtained from the appropriate professional. Because of varying state and local laws, competent legal or other advice should be secured before
-using any form. If a user of this form makes any substantive changes to any portions above, the form will no longer be an approved form.
-Copyright © Birmingham Association of REALTORS®, Inc. — General Residential Sales Contract Page 7 of 11
-
-Package ID: 6C8B0625S5DDCCFF5A337C4774E32FED6
+form w-2 wage & tax statement 2022 
+copy 2 - to be flied with employee's state, city, or local income tax return. 
+department of the treasury· internal revenue service 
+a employee's social security number 
+123-45-6789
+89
+c employer's name, address, and zip code 
+ xyz medial  inc
+841 prudentia i dr
+ste 204 
+jacksonville, fl 32207 
+b usa
+employer 
+ 
+identification number 
+(ein) 22-111111
+e employee's name, address, and zip code 
+john  hgomeowner
+123 test drive
+15 s1ate1iäe(s slate id no. 
+al 
+r009080141 
+116 slate wages, bps. elc. 
+23957 .23 
+1 wages, tips, other compensation 
+23957.23 
+3 social security wages 
+25255.80 
+5 medicare wages and tips 
+25255.80 
+7 social security tips 
+0.00 
+9 
+11 nonqualified plans 
+0.00 
+12 see instructions for box 12 
+d 
+1298. 57 
+dd 
+5066. 73 
+117 state r,oome tax 
+819.40 
+118 local wages. bps. ett. 
+0mb no. 1545-0008 
+2 federal income tax withheld 
+0.00 
+4 social security tax withheld 
+1565.86 
+6 medicare tax withheld 
+366.21 
+8 allocated tips 
+0,00 
+10 dependent care benefits 
+99.94 
+13 statutory 
+retirement third-party 
+employee 
+plan 
+sick pay 
+□
+(!i 
+□ 
+14 other 
+119 local income tax 
+i 20locaityname
