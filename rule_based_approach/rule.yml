@@ -108,6 +108,7 @@ doc_types:
       - "replacement coverage"
       - "replacement cost percent"
       - "cash value"
+      - "agent signature"
 
   Purchase Contract Addendum:
     match_keywords:

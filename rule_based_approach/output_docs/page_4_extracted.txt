@@ -1,71 +1,76 @@
-w-2
-form w-2 wage & tax statement 2023 
-scan qr code to go to turbotax and import your 
-w-2 informatlen and file your return. or by typing 
-this into your browser: 
-https://turbotax.intult.com/affillate/ultlpaper 
-copy b • to be filed with employee's federal tax return. 
-this information is being furnished to the internal revenue service. 
-department of the treasury • internal revenue service 
-a employee's social secunty number 
-123-45- 6781 
-c employer's name, address, and zip code 
-xyz medical inc 841 
-ste 
-204 
-jacksonville,
-prudential 
-fl 
-or 
-32207 
-usa 
-b employer identification number ( ein) 
-22-111111
-e employee's name, address, and zip code 
-join h cj11eownr 123 i 
-test or ive 
-15 ,:]idpi.5023:111s111t---."'· 
-al 
-r009080141 
-32783 .19 
-1 wages, tips, other compensation 
-32783.19 
-3 social security wages 
-35296.96 
-5 medicare wages and tips 
-35296.96 
-7 social security tips 
-0.00 
-9 
-11 nonqualified plans 
-0.00 
-12 see instructions for bojc 12 
-d 
-2513. 77 
-dd 
-7412.60 
-117sla1t,_,,.iu 
-1189.38 
-1111.oc:11,....11 ..... 1. 
-0mb no. 154 5·0008 
-2 federal income tax withheld 
-0.00 
-4 social security tax withheld 
-2188.41 
-6 medicare tax withheld 
-511.81 
-b allocated tips 
-0,00 
-10 dependent care benefits 
-0.00 
-13 statutory 
-retirement third-party 
-employee 
-plan 
-sick pay 
-□
-ii
-□ 
-14 other 
-11•1.aoa1-11l 
-1201.oca11tr1111n1
+department of homeland security omb control no. 1660-0040
+federal emergency management agency expires: 09-30-2023
+standard flood hazard determination form (sfhdf
+secti@n i - loan information
+1. lender/servicer name and address 2. collateral description (building‘mobile home/property)
+(see instructions for more information)
+
+abc financial corp john homeowner
+
+7500 college blvd suite 1150 123 test drive
+
+overland park, ks 66210 bessemer, al 35023
+
+lwd - 97930708
+
+3. lender/servicer id # | 4. loan identifier 5. amount of flood insurance required
+
+1234567890
+section i
+a. national flood insurance program (nfip) community jurisdiction
+1. nfip community name 2. county(ies) 3. state /4. nfip conununity number
+hueytown, city of jefferson al 010337
+
+b. national flood insurance program (nfip) data affecting building /mobile home
+
+1. nfip map number or commnnity-panel number 2. nfip map panel effective/revised date 3. is there a letter of map change (lomc)?
+(community name, ifnot the same as "a")
+
+@ no
+01073c0528 g 09/29/06 © yes (if yes, and lomc date/no. is available,
+4. flood zone 5. no nfip map enter date and case no. below).
+x date case no.
+
+c. federal flood insurance availability (check all that apply.)
+
+1. v] federal flood insurance is available (community participates in the nfip). vy) regular program lj emergency program of nfip
+
+2. _} federal flood insurance is not available (community does not participate in the nfip).
+
+3. } building‘mobile home is in a coastal barrier resources area (cbra) or otherwise protected area (opa). federal flood insurance may not be available.
+
+cbra/opa designation date:
+
+d. determination:
+
+is building/mobile home in special flood hazard area (zones containing the letters "a" or "v")? l) yes wa no
+if yes, flood insurance is required by the flood disaster protection act of 1973.
+
+if no, flood insurance is notrequired by the flood disaster protection act of 1973. please note, the risk of flooding in this area is only reduced, not removed.
+
+this determination is based on examining the nfip map, any federal emergency management agency revisions to it,
+
+and any other information needed to locate the building/mobile home on the nfip map.
+
+e. comments (optional) service type: life of loan /census tract requester: lofcepc
+
+date of original determination: 08/30/24 determination #: 24083017025435 accountid: lwd - 97930708
+
+programenwy date: 01/02/81
+
+census data) state code#: 01 county code#: 073 msa/md: 13820 census tract #: 0100.02 block group #: 3003
+
+tins flood determination is provided to the lender pursuant to the flood disaster
+protection act and for no other purpose
+
+f. preparer's information
+
+name, address, telephone number (if other than lender) date of determination
+dataverify flood services
+
+po box 530223
+
+adlanta, ga 30353-0223 08/30/24
+
+phone: 866-895-3282 / fax: 800-841-0663 / email: floodscs@:dataverifvflood.com
+fema form ff-206-f y-21-116 (forinerly 086-0-32) (04/21) sfhdf - form page 1 of 1
